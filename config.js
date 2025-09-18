@@ -1,268 +1,251 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a Niagara Falls Helicopter Ride & Dinner – $800+ Value!",
+    "navBrandLogoText": "Janelle LeBlanc",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win the <span class='highlight'>Ultimate Niagara Falls Experience</span> for Two!",
+    "heroSubheadline": "Enjoy a breathtaking helicopter ride over Niagara Falls and a luxury dinner at Ravine Vineyard. Over $800 in unforgettable fun—don't miss out! Entry closes October 8th.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/x1qvzhpffdrma0csbqv91y4rf0.jpg",
+    "promotionDates": "Enter between September 22 and October 8, 2025 – Winner drawn October 9!",
+    "endDate": "2025-10-09T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Chance Now!",
+    "name": "Niagara Falls Helicopter & Ravine Vineyard Night",
+    "successModalHeaderText": "You’re Entered!",
+    "successModalMainMessage": "Your entry for the <strong>Niagara Falls Ultimate Date Night Giveaway</strong> is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
+    "successModalEmailPrompt": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#000000",
+      "#333333",
+      "#555555"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
+    "ghlWebhookUrl": "",
+    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": ""
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You’re Entered!",
+    "mainMessage": "Your entry for the <strong>Niagara Falls Ultimate Date Night Giveaway</strong> is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
+    "socialPromptText": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5z0f29sp7srmc0csbqvt6f6y30.jpg",
+        "alt": "Two people enjoying a helicopter ride above Niagara Falls"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/rk156p4ve5rm80csbqvr11gkqc.jpg",
+        "alt": "Romantic dinner table set at Ravine Vineyard"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/gx3a5k820srma0csbqw81e55ww.jpg",
+        "alt": "Helicopter ready at Virgil airfield in Niagara-on-the-Lake"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/yc6a6rtz8srma0csbqwazbm6p8.jpg",
+        "alt": "Couple smiling over a winery meal at sunset"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-helicopter",
+        "text": "Helicopter ride for two over Niagara Falls"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "text": "$200 Ravine Vineyard gift card"
       },
       {
         "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "text": "Prize for you & a guest – friend or partner"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-calendar-check",
+        "text": "Flexible booking by winner for any available date"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
-      },
-      {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-shield-alt",
+        "text": "Helicopter tour booked with trusted National Helicopters"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Ultimate Niagara Experience – Helicopter Ride & Dinner for Two",
+    "value": "$800+ Value",
+    "description": "Picture you and your favorite person soaring high above Niagara Falls, seeing the waterfalls from the sky. After, relax and enjoy a mouthwatering meal at Ravine Vineyard—one of the Niagara region’s top wineries. This prize makes the perfect date night or special evening out you’ll never forget.",
+    "limitedTimeOfferText": "Exclusive Fall 2025 Giveaway – Very Limited!",
+    "ctaButtonText": "I Want This One-of-a-Kind Night!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "icon": "fas fa-user-plus",
+        "title": "Follow Janelle on Instagram",
+        "description": "Follow @the.real.janelle to get entry and see the winner update."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-users",
+        "title": "Tag Friends",
+        "description": "Tag at least 2 friends in the giveaway post’s comments. More tags = more entries."
       },
       {
-        "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "icon": "fas fa-share",
+        "title": "Bonus Entry",
+        "description": "Share the post in your Instagram story and tag @the.real.janelle for extra chances to win (optional, but more entries!)"
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Quick 1-minute entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "No cost to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-plane-departure",
+        "text": "Once-in-a-lifetime adventure"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Exclusive for 35-55 professionals"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Fair and random draw"
+      },
+      {
+        "icon": "fas fa-check-double",
+        "text": "Share for extra chances"
       }
-    ]
-  },
-  "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
+    ],
+    "fairSelectionInfo": {
+      "title": "Winner Drawn Fairly",
+      "text": "All entries are checked and the winner gets picked at random. No tricks, just a lucky draw!"
+    },
+    "importantNotice": {
+      "title": "Weather & Booking Info",
+      "text": "The helicopter ride date is chosen by the winner, but is weather dependent. Helicopter departs from Virgil, NOTL (Niagara-on-the-Lake)."
+    },
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "This giveaway is for professionals age 35-55 in the West GTA, Hamilton, or Niagara region. Must be 18+ to win."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "a": "Janelle will contact you on Instagram and by email right after the draw on October 9th, 2025."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Is the helicopter ride safe?",
+        "a": "Yes, it’s booked with National Helicopters, a trusted company in Niagara. Rides are only allowed in safe weather."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Can I bring a guest?",
+        "a": "Yes, your prize covers two people – perfect for a partner or a fun night out with a friend."
+      },
+      {
+        "q": "Do I have to use the Ravine Vineyard gift card for dinner?",
+        "a": "No, the $200 gift card can be used for lunch or dinner at Ravine."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
-    ],
-    "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
-    },
-    "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
-    }
+      "Make sure you follow @the.real.janelle so we can contact you if you win.",
+      "Tag 2 or more friends—each extra tag is another entry.",
+      "For a better chance, share the giveaway in your Instagram story and tag Janelle!",
+      "Set your profile to public for at least 48 hours after entry so we can verify.",
+      "Check your email and Instagram on October 9th!"
+    ]
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-878.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-878.netlify.app%2Fadmin&text=Win%20a%20Niagara%20Falls%20Helicopter%20Ride%20%26%20Dinner%20%E2%80%93%20%24800%2B%20Value!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your name and email for the official draw—don’t miss your chance at this $800+ Niagara Falls escape!",
+    "entryCountText": "Hundreds are entering—let us know you want in, too!",
+    "socialSharePrompt": "Want even more chances? Share this page with friends!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_niagara_1",
+      "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
-        {
-          "value": "The location",
-          "text": "The location"
-        },
-        {
-          "value": "The layout",
-          "text": "The layout"
-        },
-        {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
-        }
+        {"value": "Exclusivity and privacy", "text": "Exclusivity and privacy"},
+        {"value": "Unique and memorable activities", "text": "Unique and memorable activities"},
+        {"value": "Gourmet dining experiences", "text": "Gourmet dining experiences"},
+        {"value": "Stress-free planning and convenience", "text": "Stress-free planning and convenience"}
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_niagara_2",
+      "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
-        {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
-        },
-        {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
-        },
-        {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
-        }
+        {"value": "Monthly", "text": "Monthly"},
+        {"value": "Every few months", "text": "Every few months"},
+        {"value": "Once or twice a year", "text": "Once or twice a year"},
+        {"value": "Rarely, but interested in doing more", "text": "Rarely, but interested in doing more"}
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_niagara_3",
+      "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
-        {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
-        },
-        {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
-        },
-        {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
-        },
-        {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
-        }
+        {"value": "A relaxing spa retreat", "text": "A relaxing spa retreat"},
+        {"value": "Wine and dine in Niagara wine country", "text": "Wine and dine in Niagara wine country"},
+        {"value": "A city escape for cultural exploration", "text": "A city escape for cultural exploration"},
+        {"value": "Quiet time at a lavish home away from home", "text": "Quiet time at a lavish home away from home"}
+      ]
+    },
+    {
+      "id": "q_auto_niagara_4",
+      "questionText": "What motivates you to seek out unique experiences or adventures?",
+      "options": [
+        {"value": "The thrill of trying something new", "text": "The thrill of trying something new"},
+        {"value": "Creating lasting memories with loved ones", "text": "Creating lasting memories with loved ones"},
+        {"value": "Taking a break from a demanding life", "text": "Taking a break from a demanding life"},
+        {"value": "The allure of luxury and comfort", "text": "The allure of luxury and comfort"}
       ]
     }
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
+      "instagram": "https://instagram.com/@the.real.janelle"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Janelle LeBlanc",
+      "title": "",
+      "phone": "905-320-4069",
+      "email": "jjvleblanc@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is not sponsored, endorsed, or administered by Instagram, National Helicopters, or Ravine Vineyard. Must be age 18+ and in Ontario to win. Entry deadline October 8, 2025. Prize dates are subject to availability and weather.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "",
+    "organizerName": "Janelle LeBlanc",
+    "brokerageName": "",
+    "address": "",
+    "email": "jjvleblanc@gmail.com",
+    "phone": "905-320-4069",
+    "copyrightOwner": "Janelle LeBlanc"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-878",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-878",
+    "netlifyUrl": "http://Giveaway-878.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Niagara Falls Helicopter & Dinner Giveaway"
   }
 };
