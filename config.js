@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758658081680_0",
+      "id": "q_auto_1758658131199_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658081680_1",
+      "id": "q_auto_1758658131199_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658081680_2",
+      "id": "q_auto_1758658131199_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658081681_3",
+      "id": "q_auto_1758658131199_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
@@ -292,7 +292,7 @@ const config = {
       "email": "jjvleblanc@gmail.com"
     },
     "footerDisclaimer": "This giveaway is not sponsored, endorsed, or administered by Instagram, National Helicopters, or Ravine Vineyard. Must be age 18+ and in Ontario to win. Entry deadline October 8, 2025. Prize dates are subject to availability and weather.",
-    "organizerLogoUrl": "https://freeimage.host/i/Kc183Ff",
+    "organizerLogoUrl": "https://iili.io/Kc183Ff.webp",
     "secondaryLogoUrl": "https://iili.io/Kc1giDN.webp",
     "secondaryLogoAlt": "",
     "organizerName": "Janelle LeBlanc",
