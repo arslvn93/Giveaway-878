@@ -156,7 +156,7 @@ const config = {
       "Submit your best contact email so you dont miss out",
       "Double-check that youre free on October 24th",
       "Share the giveaway with friends who love basketball",
-      "Follow JJanelle LeBlanc on Instagram and Facebook for winner updates"
+      "Follow Janelle LeBlanc on Instagram and Facebook for winner updates"
     ],
     "finePrintText": "",
     "showTipsSection": true,
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758657184716_0",
+      "id": "q_auto_1758657227821_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657184716_1",
+      "id": "q_auto_1758657227821_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657184716_2",
+      "id": "q_auto_1758657227821_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657184716_3",
+      "id": "q_auto_1758657227821_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
