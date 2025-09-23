@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "",
-    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re Entered!",
-    "mainMessage": "Your entry for the <strong>Niagara Falls Ultimate Date Night Giveaway</strong> is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
-    "socialPromptText": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -129,44 +123,46 @@ const config = {
         "icon": "fas fa-check-double",
         "text": "Share for extra chances"
       }
-    ],
-    "fairSelectionInfo": {
-      "title": "Winner Drawn Fairly",
-      "text": "All entries are checked and the winner gets picked at random. No tricks, just a lucky draw!"
-    },
-    "importantNotice": {
-      "title": "Weather & Booking Info",
-      "text": "The helicopter ride date is chosen by the winner, but is weather dependent. Helicopter departs from Virgil, NOTL (Niagara-on-the-Lake)."
-    },
+    ]
+  },
+  "rules": {
     "faq": [
       {
-        "q": "Who can enter?",
-        "a": "This giveaway is for professionals age 35-55 in the West GTA, Hamilton, or Niagara region. Must be 18+ to win."
+        "q": "Who can enter the giveaway?",
+        "a": "Anyone 18 or older who lives in Ontario and is available to travel to Niagara Falls."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Janelle will contact you on Instagram and by email right after the draw on October 9th, 2025."
+        "a": "We’ll email the winner on October 9th. Be sure to check your inbox (and spam) so you don’t miss it."
       },
       {
-        "q": "Is the helicopter ride safe?",
-        "a": "Yes, it’s booked with National Helicopters, a trusted company in Niagara. Rides are only allowed in safe weather."
+        "q": "Do I need to pay for anything?",
+        "a": "No — the helicopter ride and dinner gift card are fully covered. Travel to and from Niagara is not included."
       },
       {
-        "q": "Can I bring a guest?",
-        "a": "Yes, your prize covers two people – perfect for a partner or a fun night out with a friend."
+        "q": "Can I bring someone with me?",
+        "a": "Yes! The prize is designed for two people — you and a guest of your choice."
       },
       {
-        "q": "Do I have to use the Ravine Vineyard gift card for dinner?",
-        "a": "No, the $200 gift card can be used for lunch or dinner at Ravine."
+        "q": "What if I can’t go on the scheduled date?",
+        "a": "No problem. The helicopter tour and vineyard dinner gift card are flexible — the winner can book based on availability and weather conditions."
+      },
+      {
+        "q": "What happens if the weather is bad on the day of the helicopter ride?",
+        "a": "Don’t worry — safety always comes first. If the weather isn’t suitable, National Helicopters will reschedule your flight for another available date."
       }
     ],
-    "tips": [
-      "Make sure you follow @the.real.janelle so we can contact you if you win.",
-      "Tag 2 or more friends—each extra tag is another entry.",
-      "For a better chance, share the giveaway in your Instagram story and tag Janelle!",
-      "Set your profile to public for at least 48 hours after entry so we can verify.",
-      "Check your email and Instagram on October 9th!"
-    ]
+    "tips": [],
+    "finePrintText": "",
+    "showTipsSection": false,
+    "fairSelectionInfo": {
+      "title": "",
+      "text": ""
+    },
+    "importantNotice": {
+      "title": "",
+      "text": ""
+    }
   },
   "entryForm": {
     "sharePlatforms": {
@@ -179,46 +175,106 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_niagara_1",
+      "id": "q_auto_1758657091119_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
-        {"value": "Exclusivity and privacy", "text": "Exclusivity and privacy"},
-        {"value": "Unique and memorable activities", "text": "Unique and memorable activities"},
-        {"value": "Gourmet dining experiences", "text": "Gourmet dining experiences"},
-        {"value": "Stress-free planning and convenience", "text": "Stress-free planning and convenience"}
+        {
+          "value": "Exclusivity and privacy",
+          "text": "Exclusivity and privacy"
+        },
+        {
+          "value": "Unique and memorable activities",
+          "text": "Unique and memorable activities"
+        },
+        {
+          "value": "Gourmet dining experiences",
+          "text": "Gourmet dining experiences"
+        },
+        {
+          "value": "Stress-free planning and convenience",
+          "text": "Stress-free planning and convenience"
+        }
       ]
     },
     {
-      "id": "q_auto_niagara_2",
+      "id": "q_auto_1758657091119_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
-        {"value": "Monthly", "text": "Monthly"},
-        {"value": "Every few months", "text": "Every few months"},
-        {"value": "Once or twice a year", "text": "Once or twice a year"},
-        {"value": "Rarely, but interested in doing more", "text": "Rarely, but interested in doing more"}
+        {
+          "value": "Monthly",
+          "text": "Monthly"
+        },
+        {
+          "value": "Every few months",
+          "text": "Every few months"
+        },
+        {
+          "value": "Once or twice a year",
+          "text": "Once or twice a year"
+        },
+        {
+          "value": "Rarely, but interested in doing more",
+          "text": "Rarely, but interested in doing more"
+        }
       ]
     },
     {
-      "id": "q_auto_niagara_3",
+      "id": "q_auto_1758657091119_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
-        {"value": "A relaxing spa retreat", "text": "A relaxing spa retreat"},
-        {"value": "Wine and dine in Niagara wine country", "text": "Wine and dine in Niagara wine country"},
-        {"value": "A city escape for cultural exploration", "text": "A city escape for cultural exploration"},
-        {"value": "Quiet time at a lavish home away from home", "text": "Quiet time at a lavish home away from home"}
+        {
+          "value": "A relaxing spa retreat",
+          "text": "A relaxing spa retreat"
+        },
+        {
+          "value": "Wine and dine in Niagara wine country",
+          "text": "Wine and dine in Niagara wine country"
+        },
+        {
+          "value": "A city escape for cultural exploration",
+          "text": "A city escape for cultural exploration"
+        },
+        {
+          "value": "Quiet time at a lavish home away from home",
+          "text": "Quiet time at a lavish home away from home"
+        }
       ]
     },
     {
-      "id": "q_auto_niagara_4",
+      "id": "q_auto_1758657091119_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
-        {"value": "The thrill of trying something new", "text": "The thrill of trying something new"},
-        {"value": "Creating lasting memories with loved ones", "text": "Creating lasting memories with loved ones"},
-        {"value": "Taking a break from a demanding life", "text": "Taking a break from a demanding life"},
-        {"value": "The allure of luxury and comfort", "text": "The allure of luxury and comfort"}
+        {
+          "value": "The thrill of trying something new",
+          "text": "The thrill of trying something new"
+        },
+        {
+          "value": "Creating lasting memories with loved ones",
+          "text": "Creating lasting memories with loved ones"
+        },
+        {
+          "value": "Taking a break from a demanding life",
+          "text": "Taking a break from a demanding life"
+        },
+        {
+          "value": "The allure of luxury and comfort",
+          "text": "The allure of luxury and comfort"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re Entered!",
+    "mainMessage": "Your entry for the <strong>Niagara Falls Ultimate Date Night Giveaway</strong> is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
+    "socialPromptText": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
