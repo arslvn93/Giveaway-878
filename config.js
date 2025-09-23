@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758658026550_0",
+      "id": "q_auto_1758658081680_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658026550_1",
+      "id": "q_auto_1758658081680_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658026550_2",
+      "id": "q_auto_1758658081680_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658026550_3",
+      "id": "q_auto_1758658081681_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
@@ -277,7 +277,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re Entered!",
-    "mainMessage": "Your entry for the <strong>Niagara Falls Ultimate Date Night Giveaway</strong> is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
+    "mainMessage": "Your entry for the Niagara Falls Ultimate Date Night Giveaway is all set. Watch out for our winning announcement and check your messages after October 9th. Good luck!",
     "socialPromptText": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
   },
   "footerContact": {
