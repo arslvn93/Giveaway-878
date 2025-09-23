@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a Niagara Falls Helicopter Ride & Dinner – $800+ Value!",
     "navBrandLogoText": "Janelle LeBlanc",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win the <span class='highlight'>Ultimate Niagara Falls Experience</span> for Two!",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758657227821_0",
+      "id": "q_auto_1758658026550_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657227821_1",
+      "id": "q_auto_1758658026550_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657227821_2",
+      "id": "q_auto_1758658026550_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758657227821_3",
+      "id": "q_auto_1758658026550_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
@@ -292,12 +292,12 @@ const config = {
       "email": "jjvleblanc@gmail.com"
     },
     "footerDisclaimer": "This giveaway is not sponsored, endorsed, or administered by Instagram, National Helicopters, or Ravine Vineyard. Must be age 18+ and in Ontario to win. Entry deadline October 8, 2025. Prize dates are subject to availability and weather.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://freeimage.host/i/Kc183Ff",
+    "secondaryLogoUrl": "https://iili.io/Kc1giDN.webp",
     "secondaryLogoAlt": "",
     "organizerName": "Janelle LeBlanc",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Real Broker",
+    "address": "130 King St W UNIT 1800B, Toronto, ON M5X 1E3,",
     "email": "jjvleblanc@gmail.com",
     "phone": "905-320-4069",
     "copyrightOwner": "Janelle LeBlanc"
