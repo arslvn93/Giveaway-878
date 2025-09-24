@@ -6,10 +6,10 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win the <span class='highlight'>Ultimate Niagara Falls Experience</span> for Two!",
-    "heroSubheadline": "Enjoy a breathtaking helicopter ride over Niagara Falls and a luxury dinner at Ravine Vineyard. Over $800 in unforgettable fun—don't miss out! Entry closes October 8th.",
+    "heroSubheadline": "Enjoy a breathtaking helicopter ride over Niagara Falls and a luxury dinner at Ravine Vineyard. Over $800 in unforgettable fun—don't miss out! Entry closes October 16th.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/x1qvzhpffdrma0csbqv91y4rf0.jpg",
-    "promotionDates": "Enter between September 22 and October 8, 2025 – Winner drawn October 9!",
-    "endDate": "2025-10-09T03:59:00.000Z",
+    "promotionDates": "Enter between September 22 and October 16, 2025 – Winner drawn October 17!",
+    "endDate": "2025-10-17T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Chance Now!",
     "name": "Niagara Falls Helicopter & Ravine Vineyard Night",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758724132986_0",
+      "id": "q_auto_1758734268565_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758724132986_1",
+      "id": "q_auto_1758734268566_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758724132986_2",
+      "id": "q_auto_1758734268566_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758724132986_3",
+      "id": "q_auto_1758734268566_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
