@@ -180,90 +180,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758734341681_0",
-      "questionText": "When planning a high-value experience, which aspect is most important to you?",
+      "id": "q_auto_1758738377161_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Exclusivity and privacy",
-          "text": "Exclusivity and privacy"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Unique and memorable activities",
-          "text": "Unique and memorable activities"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Gourmet dining experiences",
-          "text": "Gourmet dining experiences"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Stress-free planning and convenience",
-          "text": "Stress-free planning and convenience"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1758734341681_1",
-      "questionText": "How frequently do you explore new destinations or activities within Ontario?",
+      "id": "q_auto_1758738377161_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Every few months",
-          "text": "Every few months"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
-          "value": "Once or twice a year",
-          "text": "Once or twice a year"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Rarely, but interested in doing more",
-          "text": "Rarely, but interested in doing more"
+          "value": "I'm not sure yet",
+          "text": "I'm not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1758734341681_2",
-      "questionText": "Which of the following best describes your ideal weekend getaway?",
+      "id": "q_auto_1758738377161_2",
+      "questionText": "What's your current housing situation?",
       "options": [
         {
-          "value": "A relaxing spa retreat",
-          "text": "A relaxing spa retreat"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Wine and dine in Niagara wine country",
-          "text": "Wine and dine in Niagara wine country"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "A city escape for cultural exploration",
-          "text": "A city escape for cultural exploration"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Quiet time at a lavish home away from home",
-          "text": "Quiet time at a lavish home away from home"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1758734341681_3",
-      "questionText": "What motivates you to seek out unique experiences or adventures?",
-      "options": [
-        {
-          "value": "The thrill of trying something new",
-          "text": "The thrill of trying something new"
-        },
-        {
-          "value": "Creating lasting memories with loved ones",
-          "text": "Creating lasting memories with loved ones"
-        },
-        {
-          "value": "Taking a break from a demanding life",
-          "text": "Taking a break from a demanding life"
-        },
-        {
-          "value": "The allure of luxury and comfort",
-          "text": "The allure of luxury and comfort"
+          "value": "I'm actively looking to buy or sell now",
+          "text": "I'm actively looking to buy or sell now"
         }
       ]
     }
