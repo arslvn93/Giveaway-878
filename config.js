@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758658183049_0",
+      "id": "q_auto_1758724129092_0",
       "questionText": "When planning a high-value experience, which aspect is most important to you?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658183049_1",
+      "id": "q_auto_1758724129093_1",
       "questionText": "How frequently do you explore new destinations or activities within Ontario?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658183049_2",
+      "id": "q_auto_1758724129093_2",
       "questionText": "Which of the following best describes your ideal weekend getaway?",
       "options": [
         {
@@ -246,7 +246,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758658183049_3",
+      "id": "q_auto_1758724129093_3",
       "questionText": "What motivates you to seek out unique experiences or adventures?",
       "options": [
         {
@@ -283,7 +283,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
-      "instagram": "https://instagram.com/@the.real.janelle"
+      "instagram": "https://www.instagram.com/the.real.janelle/"
     },
     "agentContact": {
       "name": "Janelle LeBlanc",
