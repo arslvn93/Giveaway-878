@@ -27,8 +27,8 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
-    "ghlWebhookUrl": "",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/zjBSfTm1sjZ3gzmZbTG9/webhook-trigger/zNoZImzf9WjxhGdhBKQM",
+    "facebookPixelId": " 1944426839435015",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758738377161_0",
+      "id": "q_auto_1758884699913_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758738377161_1",
+      "id": "q_auto_1758884699913_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758738377161_2",
+      "id": "q_auto_1758884699913_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -285,6 +285,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-878",
     "netlifyUrl": "http://Giveaway-878.netlify.app",
     "netlifyId": "",
-    "tag": "Niagara Falls Helicopter & Dinner Giveaway"
+    "tag": "Niagara Falls Giveaway"
   }
 };
