@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758884759434_0",
+      "id": "q_auto_1758885803696_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758884759434_1",
+      "id": "q_auto_1758885803696_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758884759434_2",
+      "id": "q_auto_1758885803696_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -256,7 +256,7 @@ const config = {
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re Entered!",
     "mainMessage": "Your entry for the Niagara Falls Ultimate Date Night Giveaway is all set. Watch out for our winning announcement and check your messages after October 17th. Good luck!",
-    "socialPromptText": "Don’t forget—you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
+    "socialPromptText": "Don’t forget - you get more chances by tagging more friends and sharing the giveaway to your Instagram stories. Boost your luck!"
   },
   "footerContact": {
     "social": {
