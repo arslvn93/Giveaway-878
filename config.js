@@ -154,9 +154,9 @@ const config = {
     ],
     "tips": [
       "Submit your best contact email so you dont miss out",
-      "Double-check that youre free on October 24th",
-      "Share the giveaway with friends who love basketball",
-      "Follow Janelle LeBlanc on Instagram and Facebook for winner updates"
+      "Mark October 24th in your calendar – That could be your unforgettable date night!",
+      "Follow @the.real.janelle on Instagram",
+      "Tag your Niagara-loving friends"
     ],
     "finePrintText": "",
     "showTipsSection": true,
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759173337142_0",
+      "id": "q_auto_1759174109587_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759173337142_1",
+      "id": "q_auto_1759174109587_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759173337142_2",
+      "id": "q_auto_1759174109587_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
