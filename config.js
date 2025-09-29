@@ -153,9 +153,10 @@ const config = {
       }
     ],
     "tips": [
-      "Submit your best contact email so you dont miss out",
-      "Tag your Niagara-loving friends",
-      "Follow @the.real.janelle on Instagram"
+      "Submit your best contact email so you dont miss out.",
+      "Tag your Niagara-loving friends.",
+      "Follow @the.real.janelle on Instagram & Facebook.",
+      "Double-check your phone number – A quick call could be the best one you ever get."
     ],
     "finePrintText": "",
     "showTipsSection": true,
@@ -179,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759176357300_0",
+      "id": "q_auto_1759176543459_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -201,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759176357300_1",
+      "id": "q_auto_1759176543459_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -223,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759176357300_2",
+      "id": "q_auto_1759176543459_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
