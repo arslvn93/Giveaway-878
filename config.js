@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759174109587_0",
+      "id": "q_auto_1759174171370_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759174109587_1",
+      "id": "q_auto_1759174171370_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759174109587_2",
+      "id": "q_auto_1759174171370_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -267,7 +267,7 @@ const config = {
       "name": "Janelle LeBlanc",
       "title": "Real Estate Agent",
       "phone": "905-320-4069",
-      "email": "jjvleblanc@gmail.com"
+      "email": "janelle@jlbrealty.ca"
     },
     "footerDisclaimer": "This giveaway is not sponsored, endorsed, or administered by Instagram, National Helicopters, or Ravine Vineyard. Must be age 18+ and in Ontario to win. Entry deadline October 16, 2025. Prize dates are subject to availability and weather.",
     "organizerLogoUrl": "https://iili.io/Kc183Ff.webp",
@@ -276,7 +276,7 @@ const config = {
     "organizerName": "Janelle LeBlanc",
     "brokerageName": "Real Broker",
     "address": "130 King St W UNIT 1800B, Toronto, ON M5X 1E3,",
-    "email": "jjvleblanc@gmail.com",
+    "email": "janelle@jlbrealty.ca",
     "phone": "905-320-4069",
     "copyrightOwner": "Janelle LeBlanc"
   },
