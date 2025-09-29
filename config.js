@@ -78,7 +78,7 @@ const config = {
     "value": "$800+ Value",
     "description": "Picture you and your favourite person soaring high above Niagara Falls, seeing the waterfalls from the sky. After, relax and enjoy a farm-to-table dining experience at Ravine Vineyard—one of the Niagara region’s top wineries. This prize makes the perfect date night or special evening out you’ll never forget.",
     "limitedTimeOfferText": "Exclusive Fall 2025 Giveaway – Very Limited!",
-    "ctaButtonText": "I Want This One-of-a-Kind Night!"
+    "ctaButtonText": "I WANT THIS ONE-OF-A-KIND EXPERIENCE"
   },
   "howToEnter": {
     "steps": [
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759173252840_0",
+      "id": "q_auto_1759173285843_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759173252840_1",
+      "id": "q_auto_1759173285843_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759173252840_2",
+      "id": "q_auto_1759173285843_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
