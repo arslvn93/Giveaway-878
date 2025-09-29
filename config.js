@@ -59,7 +59,7 @@ const config = {
       },
       {
         "icon": "fas fa-utensils",
-        "text": "$200 Ravine Vineyard gift card"
+        "text": "$200 Ravine Vineyard gift card + take home wine gift basket"
       },
       {
         "icon": "fas fa-user-friends",
@@ -76,7 +76,7 @@ const config = {
     ],
     "name": "Ultimate Niagara Experience – Helicopter Ride & Dinner for Two",
     "value": "$800+ Value",
-    "description": "Picture you and your favorite person soaring high above Niagara Falls, seeing the waterfalls from the sky. After, relax and enjoy a mouthwatering meal at Ravine Vineyard—one of the Niagara region’s top wineries. This prize makes the perfect date night or special evening out you’ll never forget.",
+    "description": "Picture you and your favourite person soaring high above Niagara Falls, seeing the waterfalls from the sky. After, relax and enjoy a farm-to-table dining experience at Ravine Vineyard—one of the Niagara region’s top wineries. This prize makes the perfect date night or special evening out you’ll never forget.",
     "limitedTimeOfferText": "Exclusive Fall 2025 Giveaway – Very Limited!",
     "ctaButtonText": "I Want This One-of-a-Kind Night!"
   },
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758885803696_0",
+      "id": "q_auto_1759173250359_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758885803696_1",
+      "id": "q_auto_1759173250359_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758885803696_2",
+      "id": "q_auto_1759173250359_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
