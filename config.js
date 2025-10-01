@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win a Niagara Falls Helicopter Ride & Dinner – $800+ Value!",
-    "navBrandLogoText": "Janelle LeBlanc",
+    "navBrandLogoText": "JLB & Co. Real Estate",
     "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759176543459_0",
+      "id": "q_auto_1759321731964_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759176543459_1",
+      "id": "q_auto_1759321731964_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759176543459_2",
+      "id": "q_auto_1759321731964_2",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -265,7 +265,7 @@ const config = {
     },
     "agentContact": {
       "name": "Janelle LeBlanc",
-      "title": "Real Estate Agent",
+      "title": "Real Estate Team",
       "phone": "905-320-4069",
       "email": "janelle@jlbrealty.ca"
     },
@@ -273,12 +273,12 @@ const config = {
     "organizerLogoUrl": "https://iili.io/Kc183Ff.webp",
     "secondaryLogoUrl": "https://iili.io/Kc1giDN.webp",
     "secondaryLogoAlt": "",
-    "organizerName": "Janelle LeBlanc",
+    "organizerName": "JLB & Co. Real Estate",
     "brokerageName": "Real Broker",
     "address": "130 King St W UNIT 1800B, Toronto, ON M5X 1E3,",
     "email": "janelle@jlbrealty.ca",
     "phone": "905-320-4069",
-    "copyrightOwner": "Janelle LeBlanc"
+    "copyrightOwner": "JLB & Co. Real Estate"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-878",
